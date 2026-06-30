@@ -1,0 +1,22 @@
+# Python virtual environment
+testenv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# React
+frontend/node_modules/
+frontend/build/
+
+# Trained AI Models
+models/bert_emotion_model/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# Logs
+*.log
