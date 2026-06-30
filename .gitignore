@@ -17,3 +17,25 @@ frontend/build/
 
 # Logs
 *.log
+
+# Ignore Python virtual environment
+testenv/
+
+# Ignore React dependencies
+frontend/node_modules/
+
+# Ignore trained models
+models/bert_emotion_model/
+
+# Ignore build files
+frontend/build/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
