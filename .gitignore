@@ -1,41 +1,36 @@
-# Python virtual environment
+# ----------------------------
+# Python Virtual Environment
+# ----------------------------
 testenv/
 
-# Python cache
+# ----------------------------
+# Python Cache
+# ----------------------------
 __pycache__/
 *.pyc
 
+# ----------------------------
 # React
+# ----------------------------
 frontend/node_modules/
 frontend/build/
 
-# VS Code
-.vscode/
-
-# Environment variables
-.env
-
-# Logs
-*.log
-
-# Ignore Python virtual environment
-testenv/
-
-# Ignore React dependencies
-frontend/node_modules/
-
-# Ignore trained models
+# ----------------------------
+# Trained AI Models
+# ----------------------------
 models/bert_emotion_model/
 
-# Ignore build files
-frontend/build/
+# ----------------------------
+# Environment Variables
+# ----------------------------
+.env
 
-# Ignore Python cache
-__pycache__/
-*.pyc
-
+# ----------------------------
 # VS Code
+# ----------------------------
 .vscode/
 
-# Environment variables
-.env
+# ----------------------------
+# Logs
+# ----------------------------
+*.log
