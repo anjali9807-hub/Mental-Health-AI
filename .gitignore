@@ -1,7 +1,7 @@
-# Python virtual environment
+# Python Virtual Environment
 testenv/
 
-# Python cache
+# Python Cache
 __pycache__/
 *.pyc
 
@@ -15,7 +15,7 @@ models/bert_emotion_model/
 # VS Code
 .vscode/
 
-# Environment variables
+# Environment Variables
 .env
 
 # Logs
